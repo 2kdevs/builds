@@ -1,0 +1,6 @@
+name="Arctic Horizon 2"
+url="https://github.com/jurialmunkey/repository.jurialmunkey/blob/master/nexusrepo/zips/skin.arctic.horizon.2/skin.arctic.horizon.2-0.7.18.zip"
+icon="http://"
+fanart="http://"
+adult="no"
+description="A short description of the theme."
