@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
-version="2.0.11"
-zip="https://github.com/2kdevs/repository.2kdevs/raw/master/plugin.program.openwizard-2.0.11.zip"
+version="2.0.12"
+zip="https://github.com/2kdevs/repository.2kdevs/raw/master/plugin.program.openwizard-2.0.12.zip"
 
 name="Shared build 1"
 version="1.1"
